@@ -1,4 +1,9 @@
-# Cancer Text Classifier using Tensorflow and FastAPI
+# ClassiCancer
+
+## Description
+
+This project performs **text classification** on medical text data to predict types of **cancer** using **Natural Language Processing (NLP)** techniques. A simple **TensorFlow** deep learning model is trained on labeled data to identify patterns and classify cancer types. The model is deployed using a **FastAPI**-based REST service, enabling real-time predictions via API calls.
+
 
 dataset: [link](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification/data)
 
