@@ -89,7 +89,7 @@ CancerTextClassifier_FastAPI/
 ## 📸 UI Screenshots
 
 ### 🔹 Home Page
-![Home Page](https://github.com/MDAAMIRAHMED/CancerTextClassifier_FastAPI/blob/main/UI-1.png)
+![Home Page](home_page.png)
 
 ### 🔹 Prediction Result Page
-![Result Page](https://github.com/MDAAMIRAHMED/CancerTextClassifier_FastAPI/blob/main/UI-2.png)
+![Result Page](result_page.png)
