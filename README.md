@@ -6,15 +6,15 @@ It includes a **FastAPI** service for real-time predictions.
 
 ## 🎯 Motivation
 
-I built **ClassiCancer** to explore the power of **Natural Language Processing (NLP)** and **deep learning** in medical applications. 
+I built `ClassiCancer` to explore the power of **Natural Language Processing (NLP)** and **deep learning** in medical applications. 
 
 Given the complexity and volume of unstructured clinical text, manually identifying cancer types is time-consuming and error-prone. 
 
-**ClassiCancer** provides an automated solution for classifying cancer types from medical text, supporting faster and more reliable decision-making in healthcare.
+`ClassiCancer` provides an automated solution for classifying cancer types from medical text, supporting faster and more reliable decision-making in healthcare.
 
 ## 🚀 Quick Start
 
-Follow the steps below to set up and run **ClassiCancer** on your local machine:
+Follow the steps below to set up and run `ClassiCancer` on your local machine:
 
 ### 1. Clone the Repository
 
@@ -93,3 +93,15 @@ CancerTextClassifier_FastAPI/
 
 ### 🔹 Prediction Result Page
 ![Result Page](result_page.png)
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve `ClassiCancer`, feel free to:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request
+
+Please ensure your code is well-documented and follows good coding practices.
+
