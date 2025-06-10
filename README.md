@@ -19,8 +19,8 @@ Follow the steps below to set up and run **ClassiCancer** on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:MDAAMIRAHMED/CancerTextClassifier_FastAPI.git
-cd CancerTextClassifier_FastAPI
+git clone git@github.com:MDAAMIRAHMED/ClassiCancer.git
+cd ClassiCancer
 ```
 
 ### 2. Set up the virtual environment
